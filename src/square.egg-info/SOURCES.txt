@@ -1,0 +1,11 @@
+LICENSE
+pyproject.toml
+setup.cfg
+src/square/__init__.py
+src/square/square_number.py
+src/square.egg-info/PKG-INFO
+src/square.egg-info/SOURCES.txt
+src/square.egg-info/dependency_links.txt
+src/square.egg-info/not-zip-safe
+src/square.egg-info/requires.txt
+src/square.egg-info/top_level.txt
